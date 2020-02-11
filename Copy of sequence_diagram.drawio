@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-11T10:12:20.021Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="7dI8Ax-5A-kkhnYK3n-p" version="12.6.7" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-11T10:14:12.393Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="aNLaD5Dab1V2u4llFX6U" version="12.6.7" type="github" pages="5">
   <diagram id="DsG1wxvjK8qaqVe2RgD-" name="createTmkUniqueId">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -129,7 +129,7 @@
           <mxGeometry x="480" y="50" width="100" height="644" as="geometry"/>
         </mxCell>
         <mxCell id="eGdhhpGJkXDCD-S9PBaa-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=#CCFF99;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-4">
-          <mxGeometry x="45" y="160" width="10" height="80" as="geometry"/>
+          <mxGeometry x="45" y="170" width="10" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="eGdhhpGJkXDCD-S9PBaa-6" value="FTP Server&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-1">
           <mxGeometry x="680" y="50" width="100" height="520" as="geometry"/>
@@ -151,9 +151,9 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Y88TfQRl2z8-0NaBiyDj-3" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
-          <mxGeometry x="60" y="140" width="480" height="170" as="geometry"/>
+          <mxGeometry x="60" y="140" width="470" height="170" as="geometry"/>
         </mxCell>
-        <mxCell id="vrk3AKRboqzIHHJR1dZj-5" value="Read Message" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.917;entryY=0.176;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="eGdhhpGJkXDCD-S9PBaa-28" target="Y88TfQRl2z8-0NaBiyDj-3">
+        <mxCell id="vrk3AKRboqzIHHJR1dZj-5" value="Read Message" style="html=1;verticalAlign=bottom;endArrow=block;" edge="1" parent="eGdhhpGJkXDCD-S9PBaa-28" target="eGdhhpGJkXDCD-S9PBaa-4">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="200" y="170" as="sourcePoint"/>
             <mxPoint x="280" y="170" as="targetPoint"/>
