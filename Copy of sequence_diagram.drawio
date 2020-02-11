@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-11T10:40:32.601Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="uIKw8DPPU_F_BaaAb7u0" version="12.6.7" type="github" pages="5">
+<mxfile host="www.draw.io" modified="2020-02-11T10:42:02.031Z" agent="Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36" etag="Ko9Jp8TZo3IHMTL_qqaa" version="12.6.7" type="github" pages="5">
   <diagram id="DsG1wxvjK8qaqVe2RgD-" name="createTmkUniqueId">
     <mxGraphModel dx="868" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -167,14 +167,14 @@
         <mxCell id="vrk3AKRboqzIHHJR1dZj-17" value="Process Message" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
           <mxGeometry x="240" y="250" width="40" height="20" as="geometry"/>
         </mxCell>
-        <mxCell id="vrk3AKRboqzIHHJR1dZj-19" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
-          <mxGeometry y="110" width="750" height="380" as="geometry"/>
-        </mxCell>
         <mxCell id="vrk3AKRboqzIHHJR1dZj-20" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; If Events still present in the kafka topic to be consumed" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
           <mxGeometry x="80" y="120" width="470" height="20" as="geometry"/>
         </mxCell>
         <mxCell id="vrk3AKRboqzIHHJR1dZj-21" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
           <mxGeometry y="380" width="750" height="8" as="geometry"/>
+        </mxCell>
+        <mxCell id="vrk3AKRboqzIHHJR1dZj-19" value="Alt" style="shape=umlFrame;whiteSpace=wrap;html=1;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-28">
+          <mxGeometry y="110" width="750" height="380" as="geometry"/>
         </mxCell>
         <mxCell id="eGdhhpGJkXDCD-S9PBaa-6" value="FTP Server&lt;br&gt;" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="eGdhhpGJkXDCD-S9PBaa-1">
           <mxGeometry x="680" y="50" width="100" height="520" as="geometry"/>
